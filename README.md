@@ -1,4 +1,4 @@
-# Things-I-Don-t-Know
+# Things-I-Don't-Know
 
 Java: 
   1) Programming with Streams in Java 8(https://www.youtube.com/watch?v=rVfRDLIw_Zw)
