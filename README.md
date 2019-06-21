@@ -1,4 +1,5 @@
 <html>
+  <body>
   <p>
 # Things-I-Don't-Know
 
@@ -23,4 +24,5 @@ Redis:
 GraphQL:
   1) GraphQL using Node.JS (https://www.youtube.com/watch?v=ed8SzALpx1Q&t=9571s) - DONE
   </p>
+  </body>
 </html>
