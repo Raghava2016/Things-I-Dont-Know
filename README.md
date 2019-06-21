@@ -18,4 +18,7 @@
   1) [Simulate locking in Redis] (https://www.youtube.com/watch?v=lOOBH9fAfPs&list=PLxwOQYiL6LI3gZGBwUv_DDUOD083TYRym&index=6)
   
 # GraphQL:
-  1) [GraphQL using Node.JS] (https://www.youtube.com/watch?v=ed8SzALpx1Q&t=9571s) - DONE
+  1.
+     - [GraphQL using Node.JS] (https://www.youtube.com/watch?v=ed8SzALpx1Q&t=9571s)
+     - [Git] (https://github.com/Raghaava/graphql-nodejs)
+     - Status: [x]
