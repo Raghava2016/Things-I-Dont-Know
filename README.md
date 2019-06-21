@@ -12,11 +12,11 @@ Spring:
   2) Behind the curtains: Autoconfiguration (https://www.youtube.com/watch?v=Ybfo8Dwactg)
   
 Python:
- {
+  {
     Python course: (https://www.youtube.com/watch?v=rfscVS0vtbw&t=6850s)
     Git: https://github.com/Raghaava/learn-python
     Status: DONE :) 
- }
+  }
   
 Redis:
   1) Simulate locking in Redis (https://www.youtube.com/watch?v=lOOBH9fAfPs&list=PLxwOQYiL6LI3gZGBwUv_DDUOD083TYRym&index=6)
