@@ -10,9 +10,9 @@
   
 # Python:
   1. {
-       [Python course:] (https://www.youtube.com/watch?v=rfscVS0vtbw&t=6850s)
-       [Git:] https://github.com/Raghaava/learn-python
-       Status: [ ]
+       - [Python course:] (https://www.youtube.com/watch?v=rfscVS0vtbw&t=6850s)
+       - [Git:] https://github.com/Raghaava/learn-python
+       - Status: [ ]
      }
   
 # Redis:
