@@ -5,8 +5,12 @@
 
 # Spring:
 
-  1) [Metrics Collection in Spring Boot 2 with Micrometer] (https://www.youtube.com/watch?v=JAdxO1XboJY)
-  2) [Behind the curtains: Autoconfiguration] (https://www.youtube.com/watch?v=Ybfo8Dwactg)
+  1. [Metrics Collection in Spring Boot 2 with Micrometer] (https://www.youtube.com/watch?v=JAdxO1XboJY)
+  2. [Behind the curtains: Autoconfiguration] (https://www.youtube.com/watch?v=Ybfo8Dwactg)
+  3.
+     -[Spring security overview] (https://www.youtube.com/watch?v=8rnOsF3RVQc)
+     -[Git:] ()
+     -[Status]: [x]
   
 # Python:
   1. 
