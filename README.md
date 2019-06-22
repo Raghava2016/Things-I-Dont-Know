@@ -1,5 +1,7 @@
 ## Things-I-Don't-Know
 
+# https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/
+
 # Java: 
   1) [Programming with Streams in Java 8](https://www.youtube.com/watch?v=rVfRDLIw_Zw)
 
@@ -28,3 +30,4 @@
      - [GraphQL using Node.JS] (https://www.youtube.com/watch?v=ed8SzALpx1Q&t=9571s)
      - [Git] (https://github.com/Raghaava/graphql-nodejs)
      - Status: [x]
+
