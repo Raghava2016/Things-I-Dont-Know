@@ -1,6 +1,6 @@
 ## Things-I-Don't-Know
 
-# https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/
+ https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/
 
 # Java: 
   1) [Programming with Streams in Java 8](https://www.youtube.com/watch?v=rVfRDLIw_Zw)
