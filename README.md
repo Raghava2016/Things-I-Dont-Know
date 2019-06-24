@@ -21,7 +21,11 @@
        - [Python course:] (https://www.youtube.com/watch?v=rfscVS0vtbw&t=6850s)
        - [Git:] https://github.com/Raghaava/learn-python
        - Status: [x]
-  
+  2. 
+       -[Python mongo] (https://www.youtube.com/watch?v=E-1xI85Zog8&t=2411s)
+       -
+       -Status [In progeress]
+    
 # Redis:
   1) [Simulate locking in Redis] (https://www.youtube.com/watch?v=lOOBH9fAfPs&list=PLxwOQYiL6LI3gZGBwUv_DDUOD083TYRym&index=6)
   
